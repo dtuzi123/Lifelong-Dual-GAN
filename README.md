@@ -1,6 +1,3 @@
-# Lifelong-Dual-GAN
-
-
 # Lifelong Dual Generative Adversarial Nets Learning in Tandem
 
 >📋 This is the implementation of Lifelong Dual Generative Adversarial Nets Learning in Tandem
